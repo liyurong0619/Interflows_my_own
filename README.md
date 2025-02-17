@@ -1,5 +1,7 @@
 Interflows社群軟體:
+
 如何啟動:
+
 1.可以使用vscode或是exclipse啟動專案
 2.確認mysql資料庫是開啟的狀態，然後找到chatApplication檔案進行啟動
 3.使用chrom，輸入網址:http://localhost:8080/loginpage進入登入頁面
